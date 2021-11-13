@@ -68,6 +68,9 @@ This app is for Marvel fan's who want to know the timeline of the Marvel movies.
 <img src= "https://cdn.discordapp.com/attachments/901525263148531765/903813566396772362/20211029_181125.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
+![Mv1](https://user-images.githubusercontent.com/89627238/141654856-780172fc-779f-4ab4-802d-84e2952c87db.JPG)
+![Mv2](https://user-images.githubusercontent.com/89627238/141654864-8ecffbca-6654-4902-904c-7b382b880de3.JPG)
+![mv3](https://user-images.githubusercontent.com/89627238/141654881-d0b218b3-5197-4b50-9a1f-ca7284a90f5a.JPG)
 
 ### [BONUS] Interactive Prototype
 
